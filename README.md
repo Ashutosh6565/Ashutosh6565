@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumarashutosh7302401472@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KK1NfUK23YkZbVcIU8cL1Fm7zvHPj75N/view](https://drive.google.com/file/d/1KK1NfUK23YkZbVcIU8cL1Fm7zvHPj75N/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1OkfA8_gTyXo2ESmk1jKWLHWi_IrUVaqB/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
