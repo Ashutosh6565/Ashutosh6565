@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [lazarev](https://github.com/Ashutosh6565/lazarev-)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://ashutosh6565.github.io/Portfolio1/](https://ashutosh6565.github.io/Portfolio1/)
 
