@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh6565" alt="ashutosh6565" /></a> </p>
 
-- 🔭 I’m currently working on [lazarev](https://github.com/Ashutosh6565/lazarev-)
+- 🔭 I’m currently working on [clothers](https://github.com/Ashutosh6565/Clothers)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Linux**
 
-- 👨‍💻 All of my projects are available at [https://ashutosh6565.github.io/Portfolio1/](https://ashutosh6565.github.io/Portfolio1/)
+- 👨‍💻 All of my projects are available at [https://ashutosh6565.github.io/Portfolio1/](https://theashutosh-portfolio.netlify.app/)
 
-- 📫 How to reach me **kumarashutosh7302401472@gmail.com**
+- 📫 How to reach me **ashutosh.dev2002@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1OkfA8_gTyXo2ESmk1jKWLHWi_IrUVaqB/view
+- 📄 Know about my experiences https://drive.google.com/file/d/1A0HM06QupHqKWGvH7Ka3iEvZLvZnFW5f/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
